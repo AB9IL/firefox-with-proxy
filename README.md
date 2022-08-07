@@ -5,7 +5,7 @@ A wrapper for running Firefox with Proxychains, providing sophisticated proxying
 ## Requires:
 
 Firefox browser and Proxychains.
-Works with the anti-censorship / pro-anonymity tools in [MOFO Linux](https://mofolinux.com/index.html),[Catbird Linux](https://catbirdlinux.com/index.html), or [Skywave Linux](https://skywavelinux.com/index.html) as installed.
+Works with the anti-censorship / pro-anonymity tools in [MOFO Linux](https://mofolinux.com/index.html), [Catbird Linux](https://catbirdlinux.com/index.html), or [Skywave Linux](https://skywavelinux.com/index.html) as installed.
 
 ## Desccription:
 
